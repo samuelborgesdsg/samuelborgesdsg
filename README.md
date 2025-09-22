@@ -2,11 +2,10 @@
 
 **`Desenvolvedor Front End`**
 
-Depois de 10 anos atuando como Designer Gráfico, decidi expandir minha jornada criativa e iniciar minha carreira como Desenvolvedor.
-Sou uma pessoa dedicada, curiosa e sempre em busca de aprendizado contínuo. Meu objetivo é unir minha experiência em design — onde desenvolvi olhar atento a detalhes, estética e usabilidade — com as habilidades técnicas da programação para criar soluções funcionais e bem estruturadas.
-
-🚀 Estou em fase de crescimento na área de tecnologia, construindo projetos, estudando constantemente e aberto a novos desafios.
-Acredito no poder do esforço, da disciplina e da criatividade para alcançar grandes resultados.
+🚀 Apaixonado por tecnologia, interfaces modernas e experiências digitais.  
+🌱 Atualmente estudando e aprimorando habilidades em HTML, CSS, JavaScript e React.  
+📂 Aqui você encontra meus projetos e estudos, que fazem parte da minha jornada como dev.  
+🎯 Objetivo: criar aplicações web criativas, responsivas e funcionais.  
 
 Meu Instagram "[Samuel Borges](https://www.instagram.com/samuelborges_designer/)" e Behance "[Meu Behance](https://www.behance.net/samuelpedro2023)".
 
